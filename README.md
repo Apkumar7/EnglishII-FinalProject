@@ -10,4 +10,3 @@ This repository contains a polished, single-player choose-your-own-adventure web
 - `index.html`, `package.json`, `vite.config.js` — minimal Vite setup
 - `src/index.css` — Tailwind setup
 - `ARTIST_STATEMENT.md` — 250-word (or less) statement
-- `RUBRIC_MAPPING.md` — explains how the project maps to the grading rubric
